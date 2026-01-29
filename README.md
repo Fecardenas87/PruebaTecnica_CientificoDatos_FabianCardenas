@@ -139,3 +139,5 @@ python src/models/model_posibilidad_pago.py
 
 Fabian Cárdenas
 Prueba Técnica – Científico de Datos Cobranzas Beta
+
+
